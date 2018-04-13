@@ -55,6 +55,7 @@
 ### Python36
 * python27: EOL in 2020
 * latest features
++++
 
 ### Mypy
 * static typing
