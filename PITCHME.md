@@ -22,10 +22,9 @@
 +++
 
 ### Simple interface for PMs
-For program managers
-    - define release plans
-    - check overall status
-    - statistics
+* define release plans
+* check overall status
+* statistics
 
 ---
 
@@ -77,7 +76,6 @@ For program managers
 * no direct git push
 * no verification access
 * automatic image build
-
 +++
 
 ### Verification (for python projects)
